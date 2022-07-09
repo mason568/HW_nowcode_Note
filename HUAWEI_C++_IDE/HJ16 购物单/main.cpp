@@ -27,7 +27,7 @@ int main() {
 				data[isAttachments][5] = value;
 			}
 		}
-		//dp[i][j]，表示前i个物品，背包重量为j的情况下能装的最大价值 n
+		//dp[i][j]，表示前i个物品，背包重量(花销)为j的情况下能装的最大价值 n
 		//01背包问题 二维数组 dp[i][j]是
 		vector<vector<int>> dp(m + 1, vector<int>(N + 1, 0));
 		for (int i = 1; i < m + 1; i++) {
