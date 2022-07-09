@@ -1,2 +1,85 @@
 ﻿  main.cpp
-  HJ16 购物单.vcxproj -> D:\PiaYie\zjc568\研究生工作与学习\就业\华为\牛客网华为机试题IDE\HUAWEI_C++_IDE\x64\Debug\HJ16 购物单.exe
+D:\PiaYie\zjc568\研究生工作与学习\就业\华为\牛客网华为机试题IDE\HUAWEI_C++_IDE\HJ16 购物单\main.cpp(165,30): error C2672: “std::max”: 未找到匹配的重载函数
+D:\PiaYie\zjc568\研究生工作与学习\就业\华为\牛客网华为机试题IDE\HUAWEI_C++_IDE\HJ16 购物单\main.cpp(167,10): error C2780: “_Ty std::max(std::initializer_list<_Elem>)”: 应输入 1 个参数，却提供了 2 个
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\utility(52): message : 参见“std::max”的声明
+D:\PiaYie\zjc568\研究生工作与学习\就业\华为\牛客网华为机试题IDE\HUAWEI_C++_IDE\HJ16 购物单\main.cpp(167,10): error C2784: “_Ty std::max(std::initializer_list<_Elem>,_Pr)”: 未能从“size_t”为“std::initializer_list<_Elem>”推导 模板 参数
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\utility(49): message : 参见“std::max”的声明
+D:\PiaYie\zjc568\研究生工作与学习\就业\华为\牛客网华为机试题IDE\HUAWEI_C++_IDE\HJ16 购物单\main.cpp(167,10): error C2782: “const _Ty &std::max(const _Ty &,const _Ty &) noexcept(<expr>)”: 模板 参数“_Ty”不明确
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\utility(41): message : 参见“std::max”的声明
+D:\PiaYie\zjc568\研究生工作与学习\就业\华为\牛客网华为机试题IDE\HUAWEI_C++_IDE\HJ16 购物单\main.cpp(167,10): message : 可能是“_Ty”
+          with
+          [
+              _Ty=int
+          ]
+D:\PiaYie\zjc568\研究生工作与学习\就业\华为\牛客网华为机试题IDE\HUAWEI_C++_IDE\HJ16 购物单\main.cpp(167,10): message : 或    “size_t”
+D:\PiaYie\zjc568\研究生工作与学习\就业\华为\牛客网华为机试题IDE\HUAWEI_C++_IDE\HJ16 购物单\main.cpp(167,10): error C2784: “const _Ty &std::max(const _Ty &,const _Ty &) noexcept(<expr>)”: 未能从“_Ty”为“const _Ty &”推导 模板 参数
+          with
+          [
+              _Ty=int
+          ]
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\utility(41): message : 参见“std::max”的声明
+D:\PiaYie\zjc568\研究生工作与学习\就业\华为\牛客网华为机试题IDE\HUAWEI_C++_IDE\HJ16 购物单\main.cpp(167,10): error C2780: “const _Ty &std::max(const _Ty &,const _Ty &,_Pr) noexcept(<expr>)”: 应输入 3 个参数，却提供了 2 个
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\utility(32): message : 参见“std::max”的声明
+D:\PiaYie\zjc568\研究生工作与学习\就业\华为\牛客网华为机试题IDE\HUAWEI_C++_IDE\HJ16 购物单\main.cpp(168,45): error C2672: “std::max”: 未找到匹配的重载函数
+D:\PiaYie\zjc568\研究生工作与学习\就业\华为\牛客网华为机试题IDE\HUAWEI_C++_IDE\HJ16 购物单\main.cpp(171,10): error C2780: “_Ty std::max(std::initializer_list<_Elem>)”: 应输入 1 个参数，却提供了 2 个
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\utility(52): message : 参见“std::max”的声明
+D:\PiaYie\zjc568\研究生工作与学习\就业\华为\牛客网华为机试题IDE\HUAWEI_C++_IDE\HJ16 购物单\main.cpp(171,10): error C2784: “_Ty std::max(std::initializer_list<_Elem>,_Pr)”: 未能从“size_t”为“std::initializer_list<_Elem>”推导 模板 参数
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\utility(49): message : 参见“std::max”的声明
+D:\PiaYie\zjc568\研究生工作与学习\就业\华为\牛客网华为机试题IDE\HUAWEI_C++_IDE\HJ16 购物单\main.cpp(171,10): error C2782: “const _Ty &std::max(const _Ty &,const _Ty &) noexcept(<expr>)”: 模板 参数“_Ty”不明确
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\utility(41): message : 参见“std::max”的声明
+D:\PiaYie\zjc568\研究生工作与学习\就业\华为\牛客网华为机试题IDE\HUAWEI_C++_IDE\HJ16 购物单\main.cpp(171,10): message : 可能是“_Ty”
+          with
+          [
+              _Ty=int
+          ]
+D:\PiaYie\zjc568\研究生工作与学习\就业\华为\牛客网华为机试题IDE\HUAWEI_C++_IDE\HJ16 购物单\main.cpp(171,10): message : 或    “size_t”
+D:\PiaYie\zjc568\研究生工作与学习\就业\华为\牛客网华为机试题IDE\HUAWEI_C++_IDE\HJ16 购物单\main.cpp(171,10): error C2784: “const _Ty &std::max(const _Ty &,const _Ty &) noexcept(<expr>)”: 未能从“_Ty”为“const _Ty &”推导 模板 参数
+          with
+          [
+              _Ty=int
+          ]
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\utility(41): message : 参见“std::max”的声明
+D:\PiaYie\zjc568\研究生工作与学习\就业\华为\牛客网华为机试题IDE\HUAWEI_C++_IDE\HJ16 购物单\main.cpp(171,10): error C2780: “const _Ty &std::max(const _Ty &,const _Ty &,_Pr) noexcept(<expr>)”: 应输入 3 个参数，却提供了 2 个
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\utility(32): message : 参见“std::max”的声明
+D:\PiaYie\zjc568\研究生工作与学习\就业\华为\牛客网华为机试题IDE\HUAWEI_C++_IDE\HJ16 购物单\main.cpp(172,45): error C2672: “std::max”: 未找到匹配的重载函数
+D:\PiaYie\zjc568\研究生工作与学习\就业\华为\牛客网华为机试题IDE\HUAWEI_C++_IDE\HJ16 购物单\main.cpp(175,10): error C2780: “_Ty std::max(std::initializer_list<_Elem>)”: 应输入 1 个参数，却提供了 2 个
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\utility(52): message : 参见“std::max”的声明
+D:\PiaYie\zjc568\研究生工作与学习\就业\华为\牛客网华为机试题IDE\HUAWEI_C++_IDE\HJ16 购物单\main.cpp(175,10): error C2784: “_Ty std::max(std::initializer_list<_Elem>,_Pr)”: 未能从“size_t”为“std::initializer_list<_Elem>”推导 模板 参数
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\utility(49): message : 参见“std::max”的声明
+D:\PiaYie\zjc568\研究生工作与学习\就业\华为\牛客网华为机试题IDE\HUAWEI_C++_IDE\HJ16 购物单\main.cpp(175,10): error C2782: “const _Ty &std::max(const _Ty &,const _Ty &) noexcept(<expr>)”: 模板 参数“_Ty”不明确
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\utility(41): message : 参见“std::max”的声明
+D:\PiaYie\zjc568\研究生工作与学习\就业\华为\牛客网华为机试题IDE\HUAWEI_C++_IDE\HJ16 购物单\main.cpp(175,10): message : 可能是“_Ty”
+          with
+          [
+              _Ty=int
+          ]
+D:\PiaYie\zjc568\研究生工作与学习\就业\华为\牛客网华为机试题IDE\HUAWEI_C++_IDE\HJ16 购物单\main.cpp(175,10): message : 或    “size_t”
+D:\PiaYie\zjc568\研究生工作与学习\就业\华为\牛客网华为机试题IDE\HUAWEI_C++_IDE\HJ16 购物单\main.cpp(175,10): error C2784: “const _Ty &std::max(const _Ty &,const _Ty &) noexcept(<expr>)”: 未能从“_Ty”为“const _Ty &”推导 模板 参数
+          with
+          [
+              _Ty=int
+          ]
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\utility(41): message : 参见“std::max”的声明
+D:\PiaYie\zjc568\研究生工作与学习\就业\华为\牛客网华为机试题IDE\HUAWEI_C++_IDE\HJ16 购物单\main.cpp(175,10): error C2780: “const _Ty &std::max(const _Ty &,const _Ty &,_Pr) noexcept(<expr>)”: 应输入 3 个参数，却提供了 2 个
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\utility(32): message : 参见“std::max”的声明
+D:\PiaYie\zjc568\研究生工作与学习\就业\华为\牛客网华为机试题IDE\HUAWEI_C++_IDE\HJ16 购物单\main.cpp(177,5): error C2672: “std::max”: 未找到匹配的重载函数
+D:\PiaYie\zjc568\研究生工作与学习\就业\华为\牛客网华为机试题IDE\HUAWEI_C++_IDE\HJ16 购物单\main.cpp(181,11): error C2780: “_Ty std::max(std::initializer_list<_Elem>)”: 应输入 1 个参数，却提供了 2 个
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\utility(52): message : 参见“std::max”的声明
+D:\PiaYie\zjc568\研究生工作与学习\就业\华为\牛客网华为机试题IDE\HUAWEI_C++_IDE\HJ16 购物单\main.cpp(181,11): error C2784: “_Ty std::max(std::initializer_list<_Elem>,_Pr)”: 未能从“size_t”为“std::initializer_list<_Elem>”推导 模板 参数
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\utility(49): message : 参见“std::max”的声明
+D:\PiaYie\zjc568\研究生工作与学习\就业\华为\牛客网华为机试题IDE\HUAWEI_C++_IDE\HJ16 购物单\main.cpp(181,11): error C2782: “const _Ty &std::max(const _Ty &,const _Ty &) noexcept(<expr>)”: 模板 参数“_Ty”不明确
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\utility(41): message : 参见“std::max”的声明
+D:\PiaYie\zjc568\研究生工作与学习\就业\华为\牛客网华为机试题IDE\HUAWEI_C++_IDE\HJ16 购物单\main.cpp(181,11): message : 可能是“_Ty”
+          with
+          [
+              _Ty=int
+          ]
+D:\PiaYie\zjc568\研究生工作与学习\就业\华为\牛客网华为机试题IDE\HUAWEI_C++_IDE\HJ16 购物单\main.cpp(181,11): message : 或    “size_t”
+D:\PiaYie\zjc568\研究生工作与学习\就业\华为\牛客网华为机试题IDE\HUAWEI_C++_IDE\HJ16 购物单\main.cpp(181,11): error C2784: “const _Ty &std::max(const _Ty &,const _Ty &) noexcept(<expr>)”: 未能从“_Ty”为“const _Ty &”推导 模板 参数
+          with
+          [
+              _Ty=int
+          ]
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\utility(41): message : 参见“std::max”的声明
+D:\PiaYie\zjc568\研究生工作与学习\就业\华为\牛客网华为机试题IDE\HUAWEI_C++_IDE\HJ16 购物单\main.cpp(181,11): error C2780: “const _Ty &std::max(const _Ty &,const _Ty &,_Pr) noexcept(<expr>)”: 应输入 3 个参数，却提供了 2 个
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\utility(32): message : 参见“std::max”的声明
