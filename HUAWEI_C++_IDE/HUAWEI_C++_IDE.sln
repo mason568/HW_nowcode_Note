@@ -43,6 +43,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HJ17 坐标移动", "HJ17 �
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HJ18 识别有效的IP地址和掩码并进行分类统计", "HJ18 识别有效的IP地址和掩码并进行分类统计\HJ18 识别有效的IP地址和掩码并进行分类统计.vcxproj", "{1969E9CB-B385-4630-A4B6-865690953198}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HJ19 简单错误记录", "HJ19 简单错误记录\HJ19 简单错误记录.vcxproj", "{7E839B05-2E46-4DF2-84FA-BE9437E98A7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -211,6 +213,14 @@ Global
 		{1969E9CB-B385-4630-A4B6-865690953198}.Release|x64.Build.0 = Release|x64
 		{1969E9CB-B385-4630-A4B6-865690953198}.Release|x86.ActiveCfg = Release|Win32
 		{1969E9CB-B385-4630-A4B6-865690953198}.Release|x86.Build.0 = Release|Win32
+		{7E839B05-2E46-4DF2-84FA-BE9437E98A7E}.Debug|x64.ActiveCfg = Debug|x64
+		{7E839B05-2E46-4DF2-84FA-BE9437E98A7E}.Debug|x64.Build.0 = Debug|x64
+		{7E839B05-2E46-4DF2-84FA-BE9437E98A7E}.Debug|x86.ActiveCfg = Debug|Win32
+		{7E839B05-2E46-4DF2-84FA-BE9437E98A7E}.Debug|x86.Build.0 = Debug|Win32
+		{7E839B05-2E46-4DF2-84FA-BE9437E98A7E}.Release|x64.ActiveCfg = Release|x64
+		{7E839B05-2E46-4DF2-84FA-BE9437E98A7E}.Release|x64.Build.0 = Release|x64
+		{7E839B05-2E46-4DF2-84FA-BE9437E98A7E}.Release|x86.ActiveCfg = Release|Win32
+		{7E839B05-2E46-4DF2-84FA-BE9437E98A7E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
