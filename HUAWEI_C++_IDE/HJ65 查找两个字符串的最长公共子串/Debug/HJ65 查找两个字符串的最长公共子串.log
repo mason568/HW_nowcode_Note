@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\PiaYie\zjc568\研究生工作与学习\就业\华为\牛客网华为机试题IDE\HUAWEI_C++_IDE\HJ65 查找两个字符串的最长公共子串\main.cpp(21,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\PiaYie\zjc568\研究生工作与学习\就业\华为\牛客网华为机试题IDE\HUAWEI_C++_IDE\HJ65 查找两个字符串的最长公共子串\main.cpp(22,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\PiaYie\zjc568\研究生工作与学习\就业\华为\牛客网华为机试题IDE\HUAWEI_C++_IDE\HJ65 查找两个字符串的最长公共子串\main.cpp(43,20): warning C4018: “<=”: 有符号/无符号不匹配
+D:\PiaYie\zjc568\研究生工作与学习\就业\华为\牛客网华为机试题IDE\HUAWEI_C++_IDE\HJ65 查找两个字符串的最长公共子串\main.cpp(44,20): warning C4018: “<=”: 有符号/无符号不匹配
+  HJ65 查找两个字符串的最长公共子串.vcxproj -> D:\PiaYie\zjc568\研究生工作与学习\就业\华为\牛客网华为机试题IDE\HUAWEI_C++_IDE\Debug\HJ65 查找两个字符串的最长公共子串.exe
