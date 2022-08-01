@@ -157,6 +157,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HJ81 字符串字符匹配"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HJ81还是81 字符串字符匹配", "HJ81还是81 字符串字符匹配\HJ81还是81 字符串字符匹配.vcxproj", "{8A00748E-5720-457D-9D35-45CAFF43CA82}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HJ82 将真分数分解为埃及分数的和", "HJ82 将真分数分解为埃及分数的和\HJ82 将真分数分解为埃及分数的和.vcxproj", "{20BB054B-7914-4E6A-8ABC-FB660D0A4C3E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HJ85 最长回文子字符串", "HJ85 最长回文子字符串\HJ85 最长回文子字符串.vcxproj", "{CB842C54-CA39-4AA9-8C5C-A26ED1207490}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -781,6 +785,22 @@ Global
 		{8A00748E-5720-457D-9D35-45CAFF43CA82}.Release|x64.Build.0 = Release|x64
 		{8A00748E-5720-457D-9D35-45CAFF43CA82}.Release|x86.ActiveCfg = Release|Win32
 		{8A00748E-5720-457D-9D35-45CAFF43CA82}.Release|x86.Build.0 = Release|Win32
+		{20BB054B-7914-4E6A-8ABC-FB660D0A4C3E}.Debug|x64.ActiveCfg = Debug|x64
+		{20BB054B-7914-4E6A-8ABC-FB660D0A4C3E}.Debug|x64.Build.0 = Debug|x64
+		{20BB054B-7914-4E6A-8ABC-FB660D0A4C3E}.Debug|x86.ActiveCfg = Debug|Win32
+		{20BB054B-7914-4E6A-8ABC-FB660D0A4C3E}.Debug|x86.Build.0 = Debug|Win32
+		{20BB054B-7914-4E6A-8ABC-FB660D0A4C3E}.Release|x64.ActiveCfg = Release|x64
+		{20BB054B-7914-4E6A-8ABC-FB660D0A4C3E}.Release|x64.Build.0 = Release|x64
+		{20BB054B-7914-4E6A-8ABC-FB660D0A4C3E}.Release|x86.ActiveCfg = Release|Win32
+		{20BB054B-7914-4E6A-8ABC-FB660D0A4C3E}.Release|x86.Build.0 = Release|Win32
+		{CB842C54-CA39-4AA9-8C5C-A26ED1207490}.Debug|x64.ActiveCfg = Debug|x64
+		{CB842C54-CA39-4AA9-8C5C-A26ED1207490}.Debug|x64.Build.0 = Debug|x64
+		{CB842C54-CA39-4AA9-8C5C-A26ED1207490}.Debug|x86.ActiveCfg = Debug|Win32
+		{CB842C54-CA39-4AA9-8C5C-A26ED1207490}.Debug|x86.Build.0 = Debug|Win32
+		{CB842C54-CA39-4AA9-8C5C-A26ED1207490}.Release|x64.ActiveCfg = Release|x64
+		{CB842C54-CA39-4AA9-8C5C-A26ED1207490}.Release|x64.Build.0 = Release|x64
+		{CB842C54-CA39-4AA9-8C5C-A26ED1207490}.Release|x86.ActiveCfg = Release|Win32
+		{CB842C54-CA39-4AA9-8C5C-A26ED1207490}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
