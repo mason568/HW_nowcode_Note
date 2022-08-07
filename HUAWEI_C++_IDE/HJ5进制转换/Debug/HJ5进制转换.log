@@ -1,0 +1,2 @@
+﻿  main.cpp
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1074,5): error MSB4181: “Link”任务返回了 false，但未记录错误。

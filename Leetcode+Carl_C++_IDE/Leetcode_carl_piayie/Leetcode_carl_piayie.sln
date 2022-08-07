@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Test", "Test\Test.vcxproj",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "M07 priority_queue", "M07 priority_queue\M07 priority_queue.vcxproj", "{BB752787-F45F-4709-AA27-1181C705BCAD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "M08 字母统计+排序", "M08 字母统计+排序\M08 字母统计+排序.vcxproj", "{F44FAC9C-402E-463C-9965-CA23EFA8E58A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{BB752787-F45F-4709-AA27-1181C705BCAD}.Release|x64.Build.0 = Release|x64
 		{BB752787-F45F-4709-AA27-1181C705BCAD}.Release|x86.ActiveCfg = Release|Win32
 		{BB752787-F45F-4709-AA27-1181C705BCAD}.Release|x86.Build.0 = Release|Win32
+		{F44FAC9C-402E-463C-9965-CA23EFA8E58A}.Debug|x64.ActiveCfg = Debug|x64
+		{F44FAC9C-402E-463C-9965-CA23EFA8E58A}.Debug|x64.Build.0 = Debug|x64
+		{F44FAC9C-402E-463C-9965-CA23EFA8E58A}.Debug|x86.ActiveCfg = Debug|Win32
+		{F44FAC9C-402E-463C-9965-CA23EFA8E58A}.Debug|x86.Build.0 = Debug|Win32
+		{F44FAC9C-402E-463C-9965-CA23EFA8E58A}.Release|x64.ActiveCfg = Release|x64
+		{F44FAC9C-402E-463C-9965-CA23EFA8E58A}.Release|x64.Build.0 = Release|x64
+		{F44FAC9C-402E-463C-9965-CA23EFA8E58A}.Release|x86.ActiveCfg = Release|Win32
+		{F44FAC9C-402E-463C-9965-CA23EFA8E58A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

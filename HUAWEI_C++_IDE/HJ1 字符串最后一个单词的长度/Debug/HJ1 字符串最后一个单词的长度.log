@@ -1,2 +1,2 @@
 ﻿  main.cpp
-  HJ1 字符串最后一个单词的长度.vcxproj -> D:\PiaYie\zjc568\研究生工作与学习\就业\华为\牛客网华为机试题IDE\HUAWEI_C++_IDE\Debug\HJ1 字符串最后一个单词的长度.exe
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1074,5): error MSB6006: “link.exe”已退出，代码为 -1073741502。
