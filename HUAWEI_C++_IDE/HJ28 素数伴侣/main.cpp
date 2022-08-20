@@ -39,7 +39,6 @@ void buildisPrimeTable(int N, bool* isprime_t) {
 			isprime_t[i * prime_t[j]] = false;//每一个素数都将其当前的i倍数标记为非素数
 			if (i % prime_t[j] == 0) break;//最关键只标记一次，不会重复标j记一个数是不是素数的倍数
 		}
-
 	}
 	delete []prime_t;
 }

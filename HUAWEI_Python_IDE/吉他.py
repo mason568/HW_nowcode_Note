@@ -2,7 +2,7 @@ import pyttsx3
 
 import time
 import random
-Fmaj = ["C","G","Em","Am","Fmaj","Dm"]
+Fmaj = ["C","G","Em","Am","Fmaj","Dm","Dm7","mini F"]
 engine = pyttsx3.init()
 j=1
 print(" ")
@@ -20,7 +20,7 @@ engine.runAndWait()
 time.sleep(2)
 
 while 1:
-    i = random.randint(0,5)
+    i = random.randint(0,7)
     if i==0:
         engine.say('C')
         print(Fmaj[i])
@@ -38,6 +38,12 @@ while 1:
         print(Fmaj[i])
     elif i==5:
         engine.say('D M')
+        print(Fmaj[i])
+    elif i==6:
+        engine.say('D M 7 小横按')
+        print(Fmaj[i])
+    elif i==7:
+        engine.say('小横按 F')
         print(Fmaj[i])
     time.sleep(0.3)
     engine.runAndWait()	

@@ -1,4 +1,4 @@
 ﻿  main.cpp
-D:\PiaYie\zjc568\研究生工作与学习\就业\华为\牛客网华为机试题IDE\HUAWEI_C++_IDE\HJ28 素数伴侣\main.cpp(49,20): warning C4018: “<”: 有符号/无符号不匹配
-D:\PiaYie\zjc568\研究生工作与学习\就业\华为\牛客网华为机试题IDE\HUAWEI_C++_IDE\HJ28 素数伴侣\main.cpp(88,21): warning C4018: “<”: 有符号/无符号不匹配
-  HJ28 素数伴侣.vcxproj -> D:\PiaYie\zjc568\研究生工作与学习\就业\华为\牛客网华为机试题IDE\HUAWEI_C++_IDE\Debug\HJ28 素数伴侣.exe
+D:\PiaYie\zjc568\研究生工作与学习\就业\华为\牛客网华为机试题IDE\HUAWEI_C++_IDE\HJ28 素数伴侣\main.cpp(48,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\PiaYie\zjc568\研究生工作与学习\就业\华为\牛客网华为机试题IDE\HUAWEI_C++_IDE\HJ28 素数伴侣\main.cpp(87,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1074,5): error MSB6006: “link.exe”已退出，代码为 -1073741502。

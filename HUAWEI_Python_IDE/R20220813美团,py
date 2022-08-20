@@ -1,0 +1,36 @@
+class Solution:
+    def threeSum(self, nums: List[int]) -> List[List[int]]:
+        # 排序 + 双指针 + 三数判相邻元素重复
+        n = len(nums)
+        if n < 3:
+            return []
+        
+        nums.sort()
+        res = []
+        cnt = 0
+        for index in range(n-2):
+            if nums[index] > 0:
+                break
+            if index > 0 and nums[index] == nums[index-1]:
+                continue
+            
+            left = index + 1
+            right = n - 1
+
+            while left < right:
+                if nums[index] + nums[left] + nums[right] == 0:
+                    #res.append([nums[index], nums[left], nums[right]])
+                    cnt = cnt +1
+                    left += 1
+                    right -= 1
+                    while nums[left] == nums[left-1] and left < right:
+                        left += 1
+                    while nums[right] == nums[right+1] and left < right:
+                        right -= 1
+                elif nums[index] + nums[left] + nums[right] > 0:
+                    # right -> move left
+                    right -= 1
+                elif nums[index] + nums[left] + nums[right] < 0:
+                    # left -> move right
+                    left += 1
+        return res
